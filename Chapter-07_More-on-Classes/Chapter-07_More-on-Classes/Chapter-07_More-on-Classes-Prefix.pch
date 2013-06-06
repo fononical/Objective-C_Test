@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'Chapter-07_More-on-Classes' target in the 'Chapter-07_More-on-Classes' project
-//
-
-#ifdef __OBJC__
-    #import <Cocoa/Cocoa.h>
-#endif
