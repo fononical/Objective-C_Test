@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chapter-16_Working_with_Files' target in the 'Chapter-16_Working_with_Files' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

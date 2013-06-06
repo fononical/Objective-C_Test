@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chapter-17_Memory_Management_and_Automatic_Reference_Counting' target in the 'Chapter-17_Memory_Management_and_Automatic_Reference_Counting' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

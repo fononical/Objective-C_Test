@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chapter-09_Polymorphism_Dynamic-Typing_and_Dynamic-Binding' target in the 'Chapter-09_Polymorphism_Dynamic-Typing_and_Dynamic-Binding' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chapter-18_Copying_Objects' target in the 'Chapter-18_Copying_Objects' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chapter-21_Writing_iOS_Applications' target in the 'Chapter-21_Writing_iOS_Applications' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

@@ -1,0 +1,22 @@
+//
+//  main.m
+//  Chapter-17_Memory_Management_and_Automatic_Reference_Counting
+//
+//  Created by Alain Bustamante on 6/6/13.
+//  Copyright (c) 2013 fonónical. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+int main(int argc, const char * argv[])
+{
+
+    @autoreleasepool {
+        
+        // insert code here...
+        NSLog(@"Hello, World!");
+        
+    }
+    return 0;
+}
+

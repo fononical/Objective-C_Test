@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chapter-15_Numbers_Strings_and_Collections' target in the 'Chapter-15_Numbers_Strings_and_Collections' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

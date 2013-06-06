@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chapter-12_The-Preprocessor' target in the 'Chapter-12_The-Preprocessor' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
